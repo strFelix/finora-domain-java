@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-Sample-Finora.iml" filepath="$PROJECT_DIR$/Java-Sample-Finora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finora-domain-java.iml" filepath="$PROJECT_DIR$/finora-domain-java.iml" />
     </modules>
   </component>
 </project>
